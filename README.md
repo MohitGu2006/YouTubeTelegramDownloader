@@ -93,8 +93,8 @@ Licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## 👨‍💻 Author
 
-Crafted with care by **[Your Name]**  
-GitHub: [github.com/YOUR_USERNAME]([https://github.com/MohitGu2006])
+Crafted with care by **[Mohit Gupta]**  
+GitHub: [github.com/MohitGu2006](https://github.com/MohitGu2006)
 
 ---
 
